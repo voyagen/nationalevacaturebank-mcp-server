@@ -71,6 +71,5 @@ config/production.yaml
 
 # MCP specific
 mcp-server
-server
 *.mcp
 .claude
